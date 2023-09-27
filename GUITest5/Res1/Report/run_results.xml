@@ -1,0 +1,1089 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Iteration">
+<ReportNode type="Action">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>"Advantage Shopping"- Smart Identification</Name>
+    <Description>&lt;P&gt;&lt;span class="text"&gt;The smart identification mechanism was invoked.&lt;/span&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN class=text&gt;Reason: object not unique (6 objects found)&lt;/SPAN&gt;&lt;/P&gt;           &lt;SPAN class=text&gt;&lt;b&gt;Original description:&lt;/b&gt;&lt;/SPAN&gt;&lt;br&gt;micclass=Browser&lt;br&gt;&lt;P&gt;&lt;FONT face=Verdana size=2&gt;&lt;SPAN class=text&gt;&lt;B&gt;Smart Identification Alternative Description: &lt;/B&gt;&lt;/SPAN&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;FONT face=Verdana size=2&gt;&lt;u&gt;Base filter properties (6 objects found)&amp;nbsp;&lt;/FONT&gt;&lt;/u&gt;&lt;br&gt;
+micclass=Browser&lt;br&gt;&lt;br&gt;&lt;FONT face=Verdana size=2&gt;&lt;u&gt;Optional filter properties&lt;/FONT&gt;&lt;/u&gt;&lt;br&gt;
+name=Advantage Shopping&lt;SPAN class=passed&gt; (Used&lt;/SPAN&gt;, 1 matches)&lt;/SPAN&gt;&lt;br&gt;title=Advantage Shopping&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;openurl=http://advantageonlineshopping.com&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;opentitle=Advantage Shopping&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;openedbytestingtool=-1&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;number of tabs=1&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;</Description>
+    <StartTime>2023-09-27 11:54:02</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <SmartIdentificationInfo>
+        <SIDBasicProperties>
+          <Property>
+            <Name><![CDATA[micclass]]></Name>
+            <Value><![CDATA[Browser]]></Value>
+          </Property>
+          <BasicMatch>6</BasicMatch>
+        </SIDBasicProperties>
+        <SIDOptionalProperties>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[Advantage Shopping]]></Value>
+            <Info><![CDATA[Used]]></Info>
+            <Matches>1</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[title]]></Name>
+            <Value><![CDATA[Advantage Shopping]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[openurl]]></Name>
+            <Value><![CDATA[http://advantageonlineshopping.com]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[opentitle]]></Name>
+            <Value><![CDATA[Advantage Shopping]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[openedbytestingtool]]></Name>
+            <Value><![CDATA[True]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[number of tabs]]></Name>
+            <Value><![CDATA[1]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+        </SIDOptionalProperties>
+      </SmartIdentificationInfo>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<P><span class="text">The smart identification mechanism was invoked.</span></P><P><SPAN class=text>Reason: object not unique (6 objects found)</SPAN></P>           <SPAN class=text><b>Original description:</b></SPAN><br>micclass=Browser<br><P><FONT face=Verdana size=2><SPAN class=text><B>Smart Identification Alternative Description: </B></SPAN></FONT></P><FONT face=Verdana size=2><u>Base filter properties (6 objects found)&nbsp;</FONT></u><br>
+micclass=Browser<br><br><FONT face=Verdana size=2><u>Optional filter properties</FONT></u><br>
+name=Advantage Shopping<SPAN class=passed> (Used</SPAN>, 1 matches)</SPAN><br>title=Advantage Shopping<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>openurl=http://advantageonlineshopping.com<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>opentitle=Advantage Shopping<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>openedbytestingtool=-1<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>number of tabs=1<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>]]></OperationData>
+      </TestObject>
+      <IconKey>c560022ba20e4f72b715b3b7996ccbbd</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>UserMenu.Click</Name>
+    <Description />
+    <StartTime>2023-09-27 11:54:02</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Link</Type>
+            <Name><![CDATA[UserMenu]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[My account My orders Sign out]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f7a8bd0d370145d8b74d54dc808d8ea9</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>WebElement.Click</Name>
+    <Description />
+    <StartTime>2023-09-27 11:54:02</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>WebElement</Type>
+            <Name><![CDATA[WebElement]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[innertext]]></Name>
+            <Value><![CDATA[]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[DIV]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[acc_name]]></Name>
+            <Value><![CDATA[]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>ca99e724f1c14bd3bd8694f526f3e97c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Down_arrow.Click</Name>
+    <Description />
+    <StartTime>2023-09-27 11:54:02</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Image</Type>
+            <Name><![CDATA[Down_arrow]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[image type]]></Name>
+            <Value><![CDATA[Image Link]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[IMG]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[alt]]></Name>
+            <Value><![CDATA[]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>2ece3420723f49fda016d4768f2916d2</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>About.Click</Name>
+    <Description />
+    <StartTime>2023-09-27 11:54:02</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Link</Type>
+            <Name><![CDATA[About]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[About]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[LABEL]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f7a8bd0d370145d8b74d54dc808d8ea9</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Opening a browser on amobile.Click</Name>
+    <Description />
+    <StartTime>2023-09-27 11:54:02</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>WebElement</Type>
+            <Name><![CDATA[Opening a browser on amobile]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[innertext]]></Name>
+            <Value><![CDATA[Opening a browser on amobile device]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[P]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>ca99e724f1c14bd3bd8694f526f3e97c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>WebElement_2.Click</Name>
+    <Description />
+    <StartTime>2023-09-27 11:54:03</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>WebElement</Type>
+            <Name><![CDATA[WebElement_2]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[innertext]]></Name>
+            <Value><![CDATA[]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[DIV]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[acc_name]]></Name>
+            <Value><![CDATA[]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>ca99e724f1c14bd3bd8694f526f3e97c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>WebElement_2.Click</Name>
+    <Description />
+    <StartTime>2023-09-27 11:54:03</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>WebElement</Type>
+            <Name><![CDATA[WebElement_2]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[innertext]]></Name>
+            <Value><![CDATA[]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[DIV]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[acc_name]]></Name>
+            <Value><![CDATA[]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>ca99e724f1c14bd3bd8694f526f3e97c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>"@charset 'UTF-8';[ng\:cloak],["- Description mismatch</Name>
+    <Description>The object was not found using the test object description. Check the object's properties.</Description>
+    <StartTime>2023-09-27 11:54:23</StartTime>
+    <Result>Warning</Result>
+    <Extension>
+      <SmartIdentificationInfo>
+        <SIDBasicProperties>
+          <Property>
+            <Name><![CDATA[micclass]]></Name>
+            <Value><![CDATA[WebElement]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[HTML]]></Value>
+          </Property>
+          <BasicMatch>1</BasicMatch>
+        </SIDBasicProperties>
+      </SmartIdentificationInfo>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>WebElement</Type>
+            <Name><![CDATA[@charset 'UTF-8';[ng\:cloak],[]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[The object was not found using the test object description. Check the object's properties.]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[innertext]]></Name>
+            <Value><![CDATA[@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}  Advantage Shopping window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-TBPYED8WSW'); SIGN IN WITH FACEBOOK OR UsernameUsername field is required PasswordPassword EmailEmail REMEMBER ME SIGN IN Forgot your password? CREATE NEW ACCOUNT My account My orders Sign out About AOS Versions Management Console 2 About AOS Versions Management Console 2 ITEMS (0) Your shopping cart is empty GAME OF THRONES QTY: 1 Color: PURPLE $10,000.00 BOSE SOUNDLINK WIRELESS SPE... QTY: 1 Color: TURQUOISE $129.00 TOTAL (2 Items) $10,129.00 CHECKOUT ($10,129.00) My account My orders Sign out CATEGORIES TOP RESULTS FOR: "" View All CONTACT US POPULAR ITEMS SPECIAL OFFER OUR PRODUCTS dvantage DEMO HOME ABOUT ABOUT Advantage Online Shopping (AOS) is a fictional company used by Micro Focus as the “application under test” during customer-facing product demonstrations. Its primary assets are a fully-functional website and a mobile client, each designed using modern programming practices, focusing on high quality and scalability.  AOS is built using DevOps practices, specifically Agile backlog management and continuous testing, including functional, non-functional, performance and security testing.  THE APPLICATION IS AVAILABLE IN 3 FORM FACTORS: WEB For computers(Windows and Docker) MOBILE WEB Opening a browser on amobile device NATIVE MOBILE Android and iOS Important Note: Advantage Online Shopping is not an actual shopping site.  It is purely used for demonstration purposes. Product Added Successfully]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[HTML]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>ca99e724f1c14bd3bd8694f526f3e97c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>"@charset 'UTF-8';[ng\:cloak],["- Smart Identification</Name>
+    <Description>&lt;P&gt;&lt;span class="text"&gt;The smart identification mechanism was invoked.&lt;/span&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN class=text&gt;Reason: object not found.&lt;/SPAN&gt;&lt;/P&gt;           &lt;SPAN class=text&gt;&lt;b&gt;Original description:&lt;/b&gt;&lt;/SPAN&gt;&lt;br&gt;micclass=WebElement&lt;br&gt;innertext=@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}  Advantage Shopping window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-TBPYED8WSW'); SIGN IN WITH FACEBOOK OR UsernameUsername field is required PasswordPassword EmailEmail REMEMBER ME SIGN IN Forgot your password? CREATE NEW ACCOUNT My account My orders Sign out About AOS Versions Management Console 2 About AOS Versions Management Console 2 ITEMS (0) Your shopping cart is empty GAME OF THRONES QTY: 1 Color: PURPLE $10,000.00 BOSE SOUNDLINK WIRELESS SPE... QTY: 1 Color: TURQUOISE $129.00 TOTAL (2 Items) $10,129.00 CHECKOUT ($10,129.00) My account My orders Sign out CATEGORIES TOP RESULTS FOR: "" View All CONTACT US POPULAR ITEMS SPECIAL OFFER OUR PRODUCTS dvantage DEMO HOME ABOUT ABOUT Advantage Online Shopping (AOS) is a fictional company used by Micro Focus as the “application under test” during customer-facing product demonstrations. Its primary assets are a fully-functional website and a mobile client, each designed using modern programming practices, focusing on high quality and scalability.  AOS is built using DevOps practices, specifically Agile backlog management and continuous testing, including functional, non-functional, performance and security testing.  THE APPLICATION IS AVAILABLE IN 3 FORM FACTORS: WEB For computers(Windows and Docker) MOBILE WEB Opening a browser on amobile device NATIVE MOBILE Android and iOS Important Note: Advantage Online Shopping is not an actual shopping site.  It is purely used for demonstration purposes. Product Added Successfully&lt;br&gt;html tag=HTML&lt;br&gt;&lt;P&gt;&lt;FONT face=Verdana size=2&gt;&lt;SPAN class=text&gt;&lt;B&gt;Smart Identification Alternative Description: &lt;/B&gt;&lt;/SPAN&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;FONT face=Verdana size=2&gt;&lt;u&gt;Base filter properties (1 objects found)&amp;nbsp;&lt;/FONT&gt;&lt;/u&gt;&lt;br&gt;
+micclass=WebElement&lt;br&gt;html tag=HTML&lt;br&gt;</Description>
+    <StartTime>2023-09-27 11:54:23</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <SmartIdentificationInfo>
+        <SIDBasicProperties>
+          <Property>
+            <Name><![CDATA[micclass]]></Name>
+            <Value><![CDATA[WebElement]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[HTML]]></Value>
+          </Property>
+          <BasicMatch>1</BasicMatch>
+        </SIDBasicProperties>
+      </SmartIdentificationInfo>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>WebElement</Type>
+            <Name><![CDATA[@charset 'UTF-8';[ng\:cloak],[]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<P><span class="text">The smart identification mechanism was invoked.</span></P><P><SPAN class=text>Reason: object not found.</SPAN></P>           <SPAN class=text><b>Original description:</b></SPAN><br>micclass=WebElement<br>innertext=@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}  Advantage Shopping window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-TBPYED8WSW'); SIGN IN WITH FACEBOOK OR UsernameUsername field is required PasswordPassword EmailEmail REMEMBER ME SIGN IN Forgot your password? CREATE NEW ACCOUNT My account My orders Sign out About AOS Versions Management Console 2 About AOS Versions Management Console 2 ITEMS (0) Your shopping cart is empty GAME OF THRONES QTY: 1 Color: PURPLE $10,000.00 BOSE SOUNDLINK WIRELESS SPE... QTY: 1 Color: TURQUOISE $129.00 TOTAL (2 Items) $10,129.00 CHECKOUT ($10,129.00) My account My orders Sign out CATEGORIES TOP RESULTS FOR: "" View All CONTACT US POPULAR ITEMS SPECIAL OFFER OUR PRODUCTS dvantage DEMO HOME ABOUT ABOUT Advantage Online Shopping (AOS) is a fictional company used by Micro Focus as the “application under test” during customer-facing product demonstrations. Its primary assets are a fully-functional website and a mobile client, each designed using modern programming practices, focusing on high quality and scalability.  AOS is built using DevOps practices, specifically Agile backlog management and continuous testing, including functional, non-functional, performance and security testing.  THE APPLICATION IS AVAILABLE IN 3 FORM FACTORS: WEB For computers(Windows and Docker) MOBILE WEB Opening a browser on amobile device NATIVE MOBILE Android and iOS Important Note: Advantage Online Shopping is not an actual shopping site.  It is purely used for demonstration purposes. Product Added Successfully<br>html tag=HTML<br><P><FONT face=Verdana size=2><SPAN class=text><B>Smart Identification Alternative Description: </B></SPAN></FONT></P><FONT face=Verdana size=2><u>Base filter properties (1 objects found)&nbsp;</FONT></u><br>
+micclass=WebElement<br>html tag=HTML<br>]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[innertext]]></Name>
+            <Value><![CDATA[@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}  Advantage Shopping window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-TBPYED8WSW'); SIGN IN WITH FACEBOOK OR UsernameUsername field is required PasswordPassword EmailEmail REMEMBER ME SIGN IN Forgot your password? CREATE NEW ACCOUNT My account My orders Sign out About AOS Versions Management Console 2 About AOS Versions Management Console 2 ITEMS (0) Your shopping cart is empty GAME OF THRONES QTY: 1 Color: PURPLE $10,000.00 BOSE SOUNDLINK WIRELESS SPE... QTY: 1 Color: TURQUOISE $129.00 TOTAL (2 Items) $10,129.00 CHECKOUT ($10,129.00) My account My orders Sign out CATEGORIES TOP RESULTS FOR: "" View All CONTACT US POPULAR ITEMS SPECIAL OFFER OUR PRODUCTS dvantage DEMO HOME ABOUT ABOUT Advantage Online Shopping (AOS) is a fictional company used by Micro Focus as the “application under test” during customer-facing product demonstrations. Its primary assets are a fully-functional website and a mobile client, each designed using modern programming practices, focusing on high quality and scalability.  AOS is built using DevOps practices, specifically Agile backlog management and continuous testing, including functional, non-functional, performance and security testing.  THE APPLICATION IS AVAILABLE IN 3 FORM FACTORS: WEB For computers(Windows and Docker) MOBILE WEB Opening a browser on amobile device NATIVE MOBILE Android and iOS Important Note: Advantage Online Shopping is not an actual shopping site.  It is purely used for demonstration purposes. Product Added Successfully]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[HTML]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>c560022ba20e4f72b715b3b7996ccbbd</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>@charset 'UTF-8';[ng\:cloak],[.Click</Name>
+    <Description />
+    <StartTime>2023-09-27 11:54:23</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>WebElement</Type>
+            <Name><![CDATA[@charset 'UTF-8';[ng\:cloak],[]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[innertext]]></Name>
+            <Value><![CDATA[@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}  Advantage Shopping window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-TBPYED8WSW'); SIGN IN WITH FACEBOOK OR UsernameUsername field is required PasswordPassword EmailEmail REMEMBER ME SIGN IN Forgot your password? CREATE NEW ACCOUNT My account My orders Sign out About AOS Versions Management Console 2 About AOS Versions Management Console 2 ITEMS (0) Your shopping cart is empty GAME OF THRONES QTY: 1 Color: PURPLE $10,000.00 BOSE SOUNDLINK WIRELESS SPE... QTY: 1 Color: TURQUOISE $129.00 TOTAL (2 Items) $10,129.00 CHECKOUT ($10,129.00) My account My orders Sign out CATEGORIES TOP RESULTS FOR: "" View All CONTACT US POPULAR ITEMS SPECIAL OFFER OUR PRODUCTS dvantage DEMO HOME ABOUT ABOUT Advantage Online Shopping (AOS) is a fictional company used by Micro Focus as the “application under test” during customer-facing product demonstrations. Its primary assets are a fully-functional website and a mobile client, each designed using modern programming practices, focusing on high quality and scalability.  AOS is built using DevOps practices, specifically Agile backlog management and continuous testing, including functional, non-functional, performance and security testing.  THE APPLICATION IS AVAILABLE IN 3 FORM FACTORS: WEB For computers(Windows and Docker) MOBILE WEB Opening a browser on amobile device NATIVE MOBILE Android and iOS Important Note: Advantage Online Shopping is not an actual shopping site.  It is purely used for demonstration purposes. Product Added Successfully]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[HTML]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>ca99e724f1c14bd3bd8694f526f3e97c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>dvantage DEMO.Click</Name>
+    <Description />
+    <StartTime>2023-09-27 11:54:23</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Link</Type>
+            <Name><![CDATA[dvantage DEMO]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[dvantage DEMO]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f7a8bd0d370145d8b74d54dc808d8ea9</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>SPECIAL OFFER.Click</Name>
+    <Description />
+    <StartTime>2023-09-27 11:54:23</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Link</Type>
+            <Name><![CDATA[SPECIAL OFFER]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[SPECIAL OFFER]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f7a8bd0d370145d8b74d54dc808d8ea9</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>POPULAR ITEMS.Click</Name>
+    <Description />
+    <StartTime>2023-09-27 11:54:24</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Link</Type>
+            <Name><![CDATA[POPULAR ITEMS]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[POPULAR ITEMS]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f7a8bd0d370145d8b74d54dc808d8ea9</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>CONTACT US.Click</Name>
+    <Description />
+    <StartTime>2023-09-27 11:54:24</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Link</Type>
+            <Name><![CDATA[CONTACT US]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[CONTACT US]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f7a8bd0d370145d8b74d54dc808d8ea9</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>OUR PRODUCTS.Click</Name>
+    <Description />
+    <StartTime>2023-09-27 11:54:24</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Link</Type>
+            <Name><![CDATA[OUR PRODUCTS]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[OUR PRODUCTS]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f7a8bd0d370145d8b74d54dc808d8ea9</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>HeadphonesCategory.Click</Name>
+    <Description />
+    <StartTime>2023-09-27 11:54:24</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Link</Type>
+            <Name><![CDATA[HeadphonesCategory]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[HEADPHONES Shop Now]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[DIV]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f7a8bd0d370145d8b74d54dc808d8ea9</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>HeadphonesCategoryTxt.Click</Name>
+    <Description />
+    <StartTime>2023-09-27 11:54:24</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Link</Type>
+            <Name><![CDATA[HeadphonesCategoryTxt]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[HEADPHONES]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[SPAN]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f7a8bd0d370145d8b74d54dc808d8ea9</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>HeadphonesCategoryTxt.Click</Name>
+    <Description />
+    <StartTime>2023-09-27 11:54:24</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Link</Type>
+            <Name><![CDATA[HeadphonesCategoryTxt]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[HEADPHONES]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[SPAN]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f7a8bd0d370145d8b74d54dc808d8ea9</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>HeadphonesCategoryTxt.Click</Name>
+    <Description />
+    <StartTime>2023-09-27 11:54:24</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Link</Type>
+            <Name><![CDATA[HeadphonesCategoryTxt]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[HEADPHONES]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[SPAN]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f7a8bd0d370145d8b74d54dc808d8ea9</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Advantage Shopping.Sync</Name>
+    <Description />
+    <StartTime>2023-09-27 11:54:24</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+        </Path>
+        <Operation>Sync</Operation>
+      </TestObject>
+      <IconKey>dcf89fe247354526baf7e1dbc72e2853</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Advantage Shopping</Name>
+    <Description>Page</Description>
+    <StartTime>2023-09-27 11:54:02</StartTime>
+    <Duration>22</Duration>
+    <Result>Warning</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+      </TestObject>
+      <IconKey>dcf89fe247354526baf7e1dbc72e2853</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Advantage Shopping.Close All Tabs</Name>
+    <Description />
+    <StartTime>2023-09-27 11:54:24</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+        </Path>
+        <Operation>Close All Tabs</Operation>
+      </TestObject>
+      <IconKey>591a570fdd414b32bc47e9949a73a297</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Advantage Shopping</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2023-09-27 11:54:02</StartTime>
+    <Duration>22</Duration>
+    <Result>Warning</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>591a570fdd414b32bc47e9949a73a297</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action1</Name>
+    <Description />
+    <StartTime>2023-09-27 11:53:41</StartTime>
+    <Duration>43</Duration>
+    <Result>Warning</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>b6b629c2f027424ab95ea46b1667b679</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2023-09-27 11:53:18</StartTime>
+    <Duration>66</Duration>
+    <Result>Warning</Result>
+    <Extension>
+      <IconKey>427ad2555cd44f5bb453f03f374265e1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Index>1</Index>
+    <TestedApplications>
+      <TestedApplication>
+        <RuntimeEngineInfo />
+        <Name>Google Chrome</Name>
+        <Path>C:\Program Files\Google\Chrome\Application\chrome.exe</Path>
+        <Version>117.0</Version>
+        <Technology>web</Technology>
+        <Reserved />
+        <AdditionalInfos>
+          <Info>http://advantageonlineshopping.com</Info>
+        </AdditionalInfos>
+      </TestedApplication>
+    </TestedApplications>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>GUITest5</Name>
+    <ToolName>Micro Focus UFT One</ToolName>
+    <ToolVersion>2022</ToolVersion>
+    <ToolVersionStringLiteral>2022</ToolVersionStringLiteral>
+    <Description />
+    <StartTime>2023-09-27 11:53:17</StartTime>
+    <Duration>67</Duration>
+    <Result>Warning</Result>
+    <InputParameters />
+    <Extension>
+      <ParallelRunnerEnvInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ID />
+        <Manufacturer />
+        <Model />
+        <OsType />
+        <OsVersion />
+        <DesktopBrowser>Google Chrome</DesktopBrowser>
+        <ErrorMessage />
+      </ParallelRunnerEnvInfo>
+      <IconKey>99bf5fc55f30479abdc59e50420c81d9</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>+03:00:00</Timezone>
+      <Locale>English (United States)</Locale>
+      <User>OPENTEXT\mgrigor</User>
+      <CpuInfo>Intel(R) Core(TM) i7-9850H CPU @ 2.60GHz</CpuInfo>
+      <NumberOfCores>12</NumberOfCores>
+      <TotalMemory>32496</TotalMemory>
+      <HostName>opentext.net\ROCOCIANM02</HostName>
+      <OSInfo>Windows 10 21H2 (x64)</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xlsx" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Res1</ResultName>
+    <RunStartTime>2023-09-27 11:53:17</RunStartTime>
+    <Timezone>+03:00:00</Timezone>
+    <OrchestrationToolName>Micro Focus UFT One</OrchestrationToolName>
+    <OrchestrationToolVersion>2022</OrchestrationToolVersion>
+    <OrchestrationToolVersionStringLiteral>2022</OrchestrationToolVersionStringLiteral>
+  </GeneralInfo>
+</Results>
